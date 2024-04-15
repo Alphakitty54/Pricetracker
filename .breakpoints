@@ -1,0 +1,28 @@
+{
+  "files": {
+    "app/components/Searchbar.tsx": [
+      {
+        "id": "4eaaf740-cd67-4a2f-8238-63d3f95755a0",
+        "line": 8,
+        "version": 1507,
+        "index": 183
+      }
+    ],
+    "app/page.tsx": [
+      {
+        "id": "6b975faa-5ca5-4a0d-9b8a-b1b7b5e1c315",
+        "line": 1,
+        "version": 1558,
+        "index": 0
+      }
+    ],
+    "components/Mode.tsx": [
+      {
+        "id": "3edee633-b650-4103-a6a2-446c5fde6bda",
+        "line": 140,
+        "version": 60,
+        "index": 4350
+      }
+    ]
+  }
+}
