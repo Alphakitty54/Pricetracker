@@ -17,6 +17,19 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+
+screenshot:
+#landing page, with search filed and search button
+![image](https://github.com/user-attachments/assets/4f9409d9-9f04-432a-9555-831cf4bc067b)
+
+# product page with scarped product details
+![image](https://github.com/user-attachments/assets/dbb7919d-921b-45da-82bd-234dc8fc4535)
+
+#track option by submitting email id for future update.
+![image](https://github.com/user-attachments/assets/59d175a5-f62a-41cb-887f-d35831df1f64)
+
+
+
 ## Productionizing your Next App
 
 To make your next App run smoothly in production make sure to deploy your project with [Repl Deployments](https://docs.replit.com/hosting/deployments/about-deployments)!
